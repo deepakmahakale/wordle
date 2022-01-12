@@ -1,3 +1,5 @@
 og_image                 :  /images/wordle.png
 twitter:
   username               : deepakmahakale
+
+theme: jekyll-theme-slate
