@@ -2,7 +2,9 @@
 
 Play wordle in your shell.
 
-https://user-images.githubusercontent.com/14993828/149231796-7e151d08-2ee8-4975-bedc-450d7767dd7d.mp4
+<iframe width="420" height="315" src="https://user-images.githubusercontent.com/14993828/149231796-7e151d08-2ee8-4975-bedc-450d7767dd7d.mp4" frameborder="0" allowfullscreen></iframe>
+
+https://user-images.githubusercontent.com/14993828/149231796-7e151d08-2ee8-4975-bedc-450d7767dd7d.mp
 
 ![Wordle in shell](assets/wordle.png)
 
