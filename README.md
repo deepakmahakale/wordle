@@ -12,7 +12,7 @@ Inspired by - [https://www.powerlanguage.co.uk/wordle](https://www.powerlanguage
 
 https://user-images.githubusercontent.com/14993828/149231796-7e151d08-2ee8-4975-bedc-450d7767dd7d.mp4
 
-<img src="assets/wordle.png" width="100" height="100" alt="Wordle in shell">
+<img src="assets/wordle.png" width="100%" alt="Wordle in shell">
 
 ```console
 bash-3.2$ ruby wordle.rb
