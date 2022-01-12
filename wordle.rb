@@ -1,5 +1,8 @@
 #!/usr/bin/env ruby
-require "cgi"
+require 'cgi'
+require 'date'
+require 'json'
+require 'net/http'
 
 class String
   def green
@@ -32,7 +35,11 @@ def block_for_color(color)
   end
 end
 
-word_of_the_day = "FAVOR"
+response = Net::HTTP.get_response(URI.parse('https://deepakmahakale.in/api/words.json'))
+words = JSON.parse(response.body)
+
+word_of_the_day = words[Random.new(Date.today.to_time.utc.to_i).rand(words.size)].upcase
+
 word_of_the_day_letters = word_of_the_day.chars
 puts "Guess the word of the day \nPress Ctrl + C to exit"
 
