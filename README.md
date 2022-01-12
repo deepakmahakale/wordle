@@ -2,8 +2,11 @@
 
 Play wordle in your shell.
 
-Inspired by - https://www.powerlanguage.co.uk/wordle/
+```console
+ruby <(curl -s https://deepakmahakale.in/wordle/wordle.rb)
+```
 
+Inspired by - [https://www.powerlanguage.co.uk/wordle](https://www.powerlanguage.co.uk/wordle)
 
 <iframe width="640" height="550" src="https://user-images.githubusercontent.com/14993828/149231796-7e151d08-2ee8-4975-bedc-450d7767dd7d.mp4" frameborder="0" allowfullscreen></iframe>
 
@@ -33,8 +36,4 @@ You got the correct word in 3 guess(es).
 
 Share with your friends using the link below:
 https://twitter.com/intent/tweet?url=https://deepakmahakale.in/wordle&text=Play%20wordle%20in%20the%20shell.%0A%0AMy%20score%203/6%0A%0A%E2%AC%9C+%E2%AC%9C+%F0%9F%9F%A8+%F0%9F%9F%A8+%E2%AC%9C+%0A%F0%9F%9F%A8+%F0%9F%9F%A9+%E2%AC%9C+%F0%9F%9F%A9+%F0%9F%9F%A9+%0A%F0%9F%9F%A9+%F0%9F%9F%A9+%F0%9F%9F%A9+%F0%9F%9F%A9+%F0%9F%9F%A9+%0A%0A
-```
-
-```console
-ruby <(curl -s https://deepakmahakale.in/wordle/wordle.rb)
 ```
