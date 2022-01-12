@@ -4,7 +4,8 @@ Play wordle in your shell.
 
 Inspired by - https://www.powerlanguage.co.uk/wordle/
 
-<iframe width="420" height="315" src="https://user-images.githubusercontent.com/14993828/149231796-7e151d08-2ee8-4975-bedc-450d7767dd7d.mp4" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="640" height="550" src="https://user-images.githubusercontent.com/14993828/149231796-7e151d08-2ee8-4975-bedc-450d7767dd7d.mp4" frameborder="0" allowfullscreen></iframe>
 
 https://user-images.githubusercontent.com/14993828/149231796-7e151d08-2ee8-4975-bedc-450d7767dd7d.mp4
 
