@@ -3,3 +3,6 @@ description: Shell version of the wordle
 show_downloads: false
 google_analytics: G-F3VZ0EDE5B
 theme: jekyll-theme-slate
+
+plugins:
+  - jekyll-seo-tag

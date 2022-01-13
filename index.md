@@ -1,5 +1,9 @@
 # Wordle
 
+---
+image: /assets/wordle.png
+---
+
 Play wordle in your shell.
 
 ```console
@@ -8,7 +12,7 @@ ruby <(curl -s https://deepakmahakale.in/wordle/wordle.rb)
 
 Inspired by - [https://www.powerlanguage.co.uk/wordle](https://www.powerlanguage.co.uk/wordle)
 
-https://user-images.githubusercontent.com/14993828/149231796-7e151d08-2ee8-4975-bedc-450d7767dd7d.mp4
+<iframe width="640" height="550" src="https://user-images.githubusercontent.com/14993828/149231796-7e151d08-2ee8-4975-bedc-450d7767dd7d.mp4" frameborder="0" allowfullscreen></iframe>
 
 <img src="assets/wordle.png" width="100%" alt="Wordle in shell">
 
