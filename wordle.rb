@@ -5,7 +5,7 @@ require 'json'
 require 'net/http'
 
 MAX_TRIES = 6
-WORDS_LIST_URL = 'https://2e6jmolg96.execute-api.us-east-1.amazonaws.com/default/API'
+WORDS_LIST_URL = 'https://2e6jmolg96.execute-api.us-east-1.amazonaws.com/default/word_of_the_day'
 
 class String
   def green
