@@ -1,5 +1,3 @@
-# Wordle
-
 ---
 image: /assets/wordle.png
 ---
