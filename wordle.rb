@@ -45,12 +45,15 @@ class Wordle
   def initialize
     response  = Net::HTTP.get_response(URI.parse(WORDS_LIST_URL))
     words     = JSON.parse(response.body)
-    datestamp = Date.today.to_time.utc.to_i
+    # datestamp = Date.today.to_time.utc.to_i
+
+    index = (Date.today-Date.new(2021,06,19)).to_i
     @tries = 0
     @success = false
     @social_share_output = ''
     @letters = ('A'..'Z').to_a
-    @word_of_the_day = words[Random.new(datestamp).rand(words.size)].upcase
+    # @word_of_the_day = words[Random.new(datestamp).rand(words.size)].upcase
+    @word_of_the_day = words[index].upcase
   end
 
   def play
