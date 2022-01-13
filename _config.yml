@@ -1,5 +1,5 @@
 title: Wordle
-description: Shell version of the wordle game inpired by https://www.powerlanguage.co.uk/wordle
-show_downloads: true
+description: Shell version of the wordle
+show_downloads: false
 google_analytics: G-F3VZ0EDE5B
 theme: jekyll-theme-slate
