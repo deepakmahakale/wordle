@@ -103,7 +103,7 @@ class Wordle
       puts "\n#{social_share_output}\n\n"
 
       puts "Share with your friends using the link below:\n"
-      puts "https://twitter.com/intent/tweet?url=https://deepakmahakale.in/wordle&text=Play%20wordle%20in%20the%20shell.%0A%0AMy%20score%20#{tries}/#{MAX_TRIES}%0A#{CGI.escape(social_share_output)}%0A%0A"
+      puts "https://twitter.com/intent/tweet?url=https://deepakmahakale.com/wordle&text=Play%20wordle%20in%20the%20shell.%0A%0AMy%20score%20#{tries}/#{MAX_TRIES}%0A#{CGI.escape(social_share_output)}%0A%0A"
     elsif
       puts 'Better luck next time.'
     end

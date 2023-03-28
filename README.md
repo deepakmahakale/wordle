@@ -3,7 +3,7 @@
 Play wordle in your shell.
 
 ```console
-ruby <(curl -s https://deepakmahakale.in/wordle/wordle.rb)
+ruby <(curl -s https://deepakmahakale.com/wordle/wordle.rb)
 ```
 
 Inspired by - [https://www.powerlanguage.co.uk/wordle](https://www.powerlanguage.co.uk/wordle)
@@ -33,7 +33,7 @@ You got the correct word in 3 guess(es).
 🟩 🟩 🟩 🟩 🟩
 
 Share with your friends using the link below:
-https://twitter.com/intent/tweet?url=https://deepakmahakale.in/wordle&text=Play%20wordle%20in%20the%20shell.%0A%0AMy%20score%203/6%0A%0A%E2%AC%9C+%E2%AC%9C+%F0%9F%9F%A8+%F0%9F%9F%A8+%E2%AC%9C+%0A%F0%9F%9F%A8+%F0%9F%9F%A9+%E2%AC%9C+%F0%9F%9F%A9+%F0%9F%9F%A9+%0A%F0%9F%9F%A9+%F0%9F%9F%A9+%F0%9F%9F%A9+%F0%9F%9F%A9+%F0%9F%9F%A9+%0A%0A
+https://twitter.com/intent/tweet?url=https://deepakmahakale.com/wordle&text=Play%20wordle%20in%20the%20shell.%0A%0AMy%20score%203/6%0A%0A%E2%AC%9C+%E2%AC%9C+%F0%9F%9F%A8+%F0%9F%9F%A8+%E2%AC%9C+%0A%F0%9F%9F%A8+%F0%9F%9F%A9+%E2%AC%9C+%F0%9F%9F%A9+%F0%9F%9F%A9+%0A%F0%9F%9F%A9+%F0%9F%9F%A9+%F0%9F%9F%A9+%F0%9F%9F%A9+%F0%9F%9F%A9+%0A%0A
 ```
 
 ## TODO:
